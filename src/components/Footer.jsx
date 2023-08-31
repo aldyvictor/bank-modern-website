@@ -43,7 +43,14 @@ const Footer = () => (
 
     <div className="w-full flex items-center justify-between pt-6 md:flex-row flex-col border-t-[1px] border-t-[#3F3E45]">
       <p className="font-poppins font-normal text-[18px] leading-[27px] text-center text-white">
-        @ Designed by <span className="text-secondary">One Wonder Week</span>{" "}
+        @ Designed by{" "}
+        <a
+          href="https://www.oneweekwonders.com/"
+          target="_blank"
+          className="text-secondary"
+        >
+          One Week Wonders
+        </a>{" "}
         2021. All rights reserved.
       </p>
 
