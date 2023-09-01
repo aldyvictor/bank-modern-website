@@ -20,10 +20,19 @@ import {
 import { fav24, backTop } from "./assets";
 import DocumentMeta from "react-document-meta";
 import Favicon from "react-favicon";
+import AOS from "aos";
+import "aos/dist/aos.css";
 
 const App = () => {
   const [showButton, setShowButton] = useState(false);
   const [blurNav, setBlurNav] = useState(false);
+
+  useEffect(() => {
+    AOS.init({
+      duration: 1500,
+    });
+    AOS.refresh();
+  }, []);
 
   useEffect(() => {
     const handleScrollBlur = () => {

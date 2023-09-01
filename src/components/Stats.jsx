@@ -5,6 +5,7 @@ import styles from "../style";
 
 const Stats = () => (
   <section
+    data-aos="fade-bottom"
     className={`${styles.flexCenter} flex-row flex-wrap 
   sm:mb-20 mb-6`}
   >
