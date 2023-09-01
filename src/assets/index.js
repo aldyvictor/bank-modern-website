@@ -24,6 +24,7 @@ import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
 import fav24 from "./fav-hobank24.png";
+import backTop from "./back-to-top.svg";
 
 export {
   airbnb,
@@ -52,4 +53,5 @@ export {
   people02,
   people03,
   fav24,
+  backTop,
 };
