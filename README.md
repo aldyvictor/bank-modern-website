@@ -4,7 +4,7 @@
 
 ![alt text](https://api-personal-website.000webhostapp.com/images/projects/hoobank-thumb.webp)
 
-I'm learning the art of website design slicing through [OneWeekWonder](https://www.oneweekwonders.com/){:target="_blank"}. Recently, I've been honing my skills by slicing the design of a company profile website for a bank called HooBank. This project was created using React JS and Tailwind CSS.
+I'm learning the art of website design slicing through [OneWeekWonder](https://www.oneweekwonders.com/). Recently, I've been honing my skills by slicing the design of a company profile website for a bank called HooBank. This project was created using React JS and Tailwind CSS.
 
 This project is an open source project, you can preview the code and clone this project. You can also contribute to make this project better.
 
